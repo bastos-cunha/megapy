@@ -5,6 +5,7 @@ O objetivo desse programa é de criar jogos da mega sena com números aleatório
 A Mega-Sena paga milhões para o acertador dos 6 números sorteados. Ainda é possível ganhar prêmios ao acertar 4 ou 5 números dentre os 60 disponíveis no volante de a​postas. Para realizar o sonho de ser milionário, você deve marcar de 6 a 20 números
 
 | n. de jogos | Probabilidade de acerto (1 em)    |
+|:-------------:|:-----------------------------------:|
 |             | Sena         |  Quina    | Quadra |
 |:-------------:|:--------------:|:-----------:|:--------:|
 | 6           | 50.063.860   | 154.518   | 2.332  |
